@@ -1,16 +1,13 @@
-## Hi there 👋
+- 👋 Hi, I’m Felix
+### Languages
 
-<!--
-**fst135207/fst135207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
-Here are some ideas to get you started:
+### Plan to Learn
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Skills
+
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
