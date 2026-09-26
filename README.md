@@ -4,20 +4,7 @@ Just a tech guy.
 
 ---
 
-### Now
-
-Co-founder of NEXLANE in Bern, Switzerland. Building a managed open source platform:
-Kubernetes, GitOps and self-hosted apps on Swiss infrastructure.
-My next public projects will be cloud native.
-
-### Focus
-
-| | |
-|---|---|
-| Platform | Kubernetes · Argo CD · Crossplane · Helm |
-| Access | Keycloak · NetBird · WireGuard |
-| Infrastructure | OpenStack · OpenTofu · Linux |
-| Network | Cisco CCNA |
+Co-founder of NEXLANE in Bern, Switzerland. Building a managed open source platform on Swiss Infrastructure.
 
 ### Projects
 
