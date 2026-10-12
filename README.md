@@ -4,7 +4,7 @@ Just a tech guy.
 
 ---
 
-Co-founder of NEXLANE in Bern, Switzerland. Building a managed open source platform on Swiss Infrastructure.
+Co-founder/Engineer at NEXLANE in Bern, Switzerland.
 
 ### Projects
 
